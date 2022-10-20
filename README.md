@@ -1,14 +1,5 @@
-# MLDA-2022-Hackathon
+# TESTING CODE
 
-This is the repository for Team Trying Things Out for MLDA Deep Learning Week 2022.
-
-Our Team Members:
- - [Goh Soong Wen Ryan](https://github.com/Gyanroh)
- - [Nicholas Sim](https://github.com/nicholassy)
- - [Akash T](https://github.com/akasht81)
- - [Yeo Tzun Kai](https://github.com/yeotzunkai)
- - [Ng Teng Hien](https://github.com/ericnthh)
- 
  
  ## Motivation:
  
